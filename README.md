@@ -24,7 +24,9 @@ Vue
 ## 截图
 
 ![App Screenshot](doc/home.png)
+![App Screenshot](doc/video.png)
 ![App Screenshot](doc/home-mobile.png)
+![App Screenshot](doc/video-mobile.png)
 
 
 ## 运行 🚀
