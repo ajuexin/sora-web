@@ -1,37 +1,51 @@
-# sora_web
 
-#### 介绍
-一个Web网站，用于使用Sora 生成AI视频
-
-#### 软件架构
-软件架构说明
+# Sora Web
 
 
-#### 安装教程
+探索未来，创意无限！无需复杂编辑技能，只需您的想象力。我们的平台带您进入视频创作的新时代,[立即体验](https://bdd.buzz)，释放您的创造力！
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
 
-#### 特技
+## 特性
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+💎 轻量级
+
+✨ 响应式
+
+🚀 快速的
+
+🔎 SEO
+
+## 技术栈 🛠
+Vue
+
+
+## 截图
+
+![App Screenshot](doc/home.png)
+![App Screenshot](doc/home-mobile.png)
+
+
+## 运行 🚀
+
+使用以下命令快速启动项目
+
+```bash
+npm install
+```
+```bash
+npm run dev
+```
+
+
+## 常见问答 ❔
+
+#### 开发环境Node版本为多少？
+
+✔️ v16.0.0 及以上
+
+#### 支持多语言吗？
+
+✔️ 支持
+
