@@ -2,7 +2,7 @@
 # Sora Web
 
 
-探索未来，创意无限！无需复杂编辑技能，只需您的想象力。我们的平台带您进入视频创作的新时代,[立即体验](https://bdd.buzz)，释放您的创造力！
+探索未来，创意无限！无需复杂编辑技能，只需您的想象力。我们的平台带您进入视频创作的新时代，释放您的创造力！
 
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
